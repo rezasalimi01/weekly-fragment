@@ -1,5 +1,5 @@
 {
-  "remarks": "🇮🇹 Stark Industries",
+  "remarks": "🇩🇪 Germany - 3",
   "log": {
     "access": "",
     "error": "",
@@ -56,7 +56,7 @@
             "port": 443,
             "users": [
               {
-                "id": "e4f5a877-8a76-4138-9d0b-04a36f8d8e55",
+                "id": "11e6a1bb-1e07-4ce3-b276-1e751f5e4688",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -72,18 +72,18 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "IT2.v2vlEss.xYz",
+          "serverName": "dE3.v2vLess.xyZ",
           "alpn": [
             "h2",
             "http/1.1"
           ],
-          "fingerprint": "safari",
+          "fingerprint": "chrome",
           "show": false
         },
         "wsSettings": {
           "path": "/vless",
           "headers": {
-            "Host": "IT2.v2vlEss.xYz"
+            "Host": "dE3.v2vLess.xyZ"
           }
         },
         "sockopt": {
